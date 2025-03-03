@@ -1,5 +1,5 @@
 import type { ReadTimeResults } from 'reading-time'
-import DEFAULT_CONTENT from '@/assets/example/markdown.md?raw'
+import DEFAULT_CONTENT from '@/assets/example/demo.md?raw'
 import DEFAULT_CSS_CONTENT from '@/assets/example/theme-css.txt?raw'
 import { altKey, codeBlockThemeOptions, colorOptions, fontFamilyOptions, fontSizeOptions, legendOptions, shiftKey, themeMap, themeOptions } from '@/config'
 import { addPrefix, css2json, customCssWithTemplate, customizeTheme, downloadMD, exportHTML, formatDoc } from '@/utils'
